@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  align-items: center;
+  background-color: black;
+  border: 5px orangered solid;
+}
+
+.header a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: orange;
+}
+
+.header .logo {
+  width: 40px;
+  height: 40px;
+}

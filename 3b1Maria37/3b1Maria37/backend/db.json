@@ -1,0 +1,46 @@
+{
+  "jogos": [
+    {
+      "nome": "Mario Kart 64",
+      "preco": "30.90",
+      "dispositivo": "Nintendo 64",
+      "codigo": "11",
+      "id": 1
+    },
+    {
+      "nome": "Crash",
+      "preco": "13.68",
+      "dispositivo": "PS2",
+      "codigo": "22",
+      "id": 2
+    },
+    {
+      "nome": "Spyro",
+      "preco": "27.00",
+      "dispositivo": "PS2",
+      "codigo": "33",
+      "id": 3
+    },
+    {
+      "nome": "Undertale",
+      "preco": "19.99",
+      "dispositivo": "Nintendo Switch",
+      "codigo": "44",
+      "id": 4
+    },
+    {
+      "nome": "Pokemon Red",
+      "preco": "40.00",
+      "dispositivo": "Gameboy Color",
+      "codigo": "55",
+      "id": 5
+    },
+    {
+      "nome": "Pokemon Stadiun",
+      "preco": "70.00",
+      "dispositivo": "Nintendo 64",
+      "codigo": "666",
+      "id": 6
+    }
+  ]
+}
